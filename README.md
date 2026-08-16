@@ -45,10 +45,6 @@ The model is fine-tuned for sequence classification to predict the priority of i
 
 Model weight files such as `.safetensors` and `.bin` are **not included in this repository** due to GitHub file-size limitations.
 
-The trained model can be obtained by either:
-
-1. Running the training script locally.
-2. Downloading the trained model from the project's linked **Hugging Face model repository**.
 
 ## Setup & Installation
 
