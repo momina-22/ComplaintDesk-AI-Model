@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Trained model artifacts & weights (prevents uploading heavy binary files to git)
+complaintNLP_model/*.safetensors
+complaintNLP_model/*.bin
+complaintNLP_model.zip
+
+# Datasets (uncomment if dataset is large or confidential)
+# *.csv
+# my_dataset.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
