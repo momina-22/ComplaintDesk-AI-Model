@@ -193,3 +193,22 @@ python complaintdesk_testing.py
 * Large model weight files are excluded from GitHub.
 * The trained model can be recreated locally using `complaintdesk_training.py`.
 * Alternatively, the trained model can be downloaded from the linked Hugging Face repository.
+
+---
+##Second Method  
+##`Notebooks/README.md` (Inside Notebooks Folder)
+
+---
+## Instructions to run notebooks in Colab
+
+1. Click an **Open in Colab** badge above.
+2. Select **Runtime** > **Change runtime type** > **T4 GPU**.
+3. Upload your dataset or model folder when running the corresponding notebook[cite: 2, 3].
+4. Run all cells sequentially (**Runtime** > **Run all** or `Ctrl + F9`).
+
+## Instructions for colab notebooks
+
+1. Click an **Open in Colab** badge above.
+2. Select **Runtime** > **Change runtime type** > **T4 GPU**.
+3. Upload your dataset or model folder when running the corresponding notebook[cite: 2, 3].
+4. Run all cells sequentially (**Runtime** > **Run all** or `Ctrl + F9`).
