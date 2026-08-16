@@ -1,5 +1,19 @@
-Google Colab Notebooks Guide
+---
+
+
+# Google Colab Notebooks Guide
+
 Run training and evaluation directly in the cloud using Google Colab with free GPU runtimes.
+
+---
+
+## Available Notebooks
+
+| Notebook | Description | Open in Colab |
+| :--- | :--- | :--- |
+| **`ComplaintDesk_training_colab.ipynb`** | Fine-tunes `distilbert-base-uncased` and exports model artifacts[cite: 2]. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/ComplaintDesk/blob/main/Notebooks/ComplaintDesk_training_colab.ipynb) |
+| **`ComplaintDesk_testing_colab.ipynb`** | Loads saved weights to test sample complaints and display class probabilities[cite: 3]. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/ComplaintDesk/blob/main/Notebooks/ComplaintDesk_testing_colab.ipynb) |
+
 ---
 
 ## Instructions
